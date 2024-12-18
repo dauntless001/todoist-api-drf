@@ -1,0 +1,1 @@
+from todoist.settings.base import *
